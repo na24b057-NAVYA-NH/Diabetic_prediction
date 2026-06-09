@@ -2,6 +2,7 @@
 Diabetes Prediction using Logistic Regression
 
 **Overview**
+
 This project develops a machine learning model to predict diabetes based on health and lifestyle factors. It also examines how different features influence the prediction.
 
 **Approach**
