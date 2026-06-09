@@ -19,10 +19,10 @@ This project develops a machine learning model to predict diabetes based on heal
 * Feature Analysis
 
 **Model coefficients were used to understand feature impact:**
-Positive values - higher likelihood of diabetes
-Negative values - lower likelihood
+* Positive values - higher likelihood of diabetes
+* Negative values - lower likelihood
 
 **Tools Used**
-Python, Pandas, NumPy
-Scikit-learn
-Matplotlib, Seaborn
+* Python, Pandas, NumPy
+* Scikit-learn
+* Matplotlib, Seaborn
